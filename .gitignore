@@ -1,0 +1,5 @@
+backend/venv/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/med50.db
+.env
